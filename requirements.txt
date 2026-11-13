@@ -1,0 +1,15 @@
+transformers==4.53.2
+pip install scikit-learn==1.4.2
+scipy==1.15.3
+datasets==2.15.0
+ipdb==0.13.13
+numpy==1.24.3
+pandas==2.3.1
+pillow==11.0.0
+torch==2.1.0+cu121
+
+
+conda install pytorch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 pytorch-cuda=12.1 -c pytorch -c nvidia
+transformers==4.53.2
+python=3.11
+mkl==2024.0.0
